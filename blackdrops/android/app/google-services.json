@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "683303746359",
+    "project_id": "lush-layer",
+    "storage_bucket": "lush-layer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683303746359:android:309859f6e8dfcba69cf8b2",
+        "android_client_info": {
+          "package_name": "com.example.lush_layers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683303746359-h25qd84itph81ml45pmh03u4ah9h2sll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lush_layers",
+            "certificate_hash": "9ba3e10a553c432a75f487636ec4083a223d8707"
+          }
+        },
+        {
+          "client_id": "683303746359-is6boobo5blqi3b01jj60o4s2s3hklfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArAWO_TSFpOg19kpM_iCvUZnuFMXljB7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683303746359-hsvl160hgr2s2e8btd449tk0l9po6rv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
